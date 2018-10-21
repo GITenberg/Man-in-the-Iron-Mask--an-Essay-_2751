@@ -1,22 +1,21 @@
                   THE MAN IN THE IRON MASK [An Essay]
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: The Man in an Iron Mask [An Essay]
-
 Author: Alexandre Dumas, Pere
-
 Release Date: August 15, 2006 [EBook #2751]
-
-Last Updated: 2012-02-20
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: US-ASCII
 
 
@@ -27,6 +26,7 @@ ESSAY] ***
 
 
 Produced by David Widger.
+
 
 
 
@@ -48,7 +48,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *THE MAN IN THE IRON MASK [An Essay]*
 
 
@@ -58,9 +57,9 @@ CONTENTS
 
 
     (This is the essay entitled The Man in the Iron Mask, not the
-    novel
+            novel
     "The Man in the Iron Mask" [The Novel] Dumas
-    #28[nmaskxxx.xxx]2759])
+            #28[nmaskxxx.xxx]2759])
 
 For nearly one hundred years this curious problem has exercised the
 imagination of writers of fiction--and of drama, and the patience of the
@@ -312,7 +311,7 @@ soon after his reappearance there, for he had been banished by the king
 from his presence some time before for having, in company with several
 young nobles, indulged in the most reprehensible excesses.
 
-"The king," says Mademoiselle de Montpensier ('Memoires de Mademoiselle
+"The king," says Mademoiselle de Montpensier ['Memoires de Mademoiselle
 de Montpensier', vol. xliii. p. 474., of 'Memoires Relatifs d'Histoire
 de France', Second Series, published by Petitot), "had not been
 satisfied with his conduct and refused to see him. The young prince had
@@ -551,7 +550,7 @@ sortie. The Duc de Navailles, who shared with him the command of the
 French squadron, simply reported his death as follows: "He met a body of
 Turks who were pressing our troops hard: placing himself at the head of
 the latter, he fought valiantly, but at length his soldiers abandoned
-him, and we have not been able to learn his fate" ('Memoires du Duc de
+him, and we have not been able to learn his fate" ['Memoires du Duc de
 Navailles', book iv. P. 243)
 
 The report of his death spread rapidly through France and Italy;
@@ -1510,11 +1509,11 @@ is plain to see that when obliged to part for a time they do it with
 great reluctance. If what people say is true, that they are properly
 married, and that their union has been blessed by Pere Vincent the
 missioner, there is no harm in all that goes on between them, either in
-public or in private" ('Requete civile contre la Conclusion de la Paix,
+public or in private" ['Requete civile contre la Conclusion de la Paix,
 1649).
 
 The Man in the Iron Mask told the apothecary in the Bastille that he
-thought he was about sixty years of age ('Questions sur
+thought he was about sixty years of age ['Questions sur
 d'Encyclopedie'). Thus he must have been born in 1644, just at the time
 when Anne of Austria was invested with the royal power, though it was
 really exercised by Mazarin.
@@ -1528,7 +1527,7 @@ Louvre, moved to the Palais Royal, which had been left to the king by
 Richelieu. Shortly after taking up residence there she was very ill with
 a severe attack of jaundice, which was caused, in the opinion of the
 doctors, by worry, anxiety, and overwork, and which pulled her down
-greatly" ('Memoire de Madame de Motteville, 4 vols. 12mo, Vol i. p.
+greatly" ['Memoire de Madame de Motteville, 4 vols. 12mo, Vol i. p.
 194).
 
 "This anxiety, caused by the pressure of public business, was most
@@ -1674,7 +1673,7 @@ Fouquet from the kingdom for life. "But the king was of the opinion that
 it would be dangerous to let the said Fouquet leave the country, in
 consideration of his intimate knowledge of the most important matters of
 state. Consequently the sentence of perpetual banishment was commuted
-into that of perpetual imprisonment." ('Receuil des defenses de M.
+into that of perpetual imprisonment." ['Receuil des defenses de M.
 Fouquet'). The instructions signed by the king and remitted to
 Saint-Mars forbid him to permit Fouquet to hold any spoken or written
 communication with anyone whatsoever, or to leave his apartments for any
@@ -1715,7 +1714,7 @@ before the year 1687, for when Saint-Mars took over the governorship in
 the month of January of that year of the Iles Sainte-Marguerite he
 brought only ONE prisoner thither with him. "I have taken such good
 measures to guard my prisoner that I can answer to you for his safety"
-('Lettres de Saint-Mars a Louvois', 20th January 1687).
+['Lettres de Saint-Mars a Louvois', 20th January 1687).
 
 In the correspondence of Louvois with Saint-Mars we find, it is true,
 mention of the death of Fouquet on March 23rd, 1680, but in his later
@@ -1798,21 +1797,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2751
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg(tm) electronic works to protect the
-Project Gutenberg(tm) concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You may
-use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away - you may do practically _anything_ with public
-domain eBooks.  Redistribution is subject to the trademark license,
-especially commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg(tm)
+electronic works to protect the Project Gutenberg(tm) concept and
+trademark. Project Gutenberg is a registered trademark, and may not be
+used if you charge for the eBooks, unless you receive specific
+permission. If you do not charge anything for copies of this eBook,
+complying with the rules is very easy. You may use this eBook for nearly
+any purpose such as creation of derivative works, reports, performances
+and research.  They may be modified and printed and given away - you may
+do practically _anything_ in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 
 
@@ -1858,9 +1858,9 @@ works. See paragraph 1.E below.
 Foundation" or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg(tm) electronic works. Nearly all the individual works
 in the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg(tm) mission of promoting free access to electronic
@@ -1870,6 +1870,7 @@ associated with the work. You can easily comply with the terms of this
 agreement by keeping this work in the same format with its attached full
 Project Gutenberg(tm) License when you share it without charge with
 others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -1890,21 +1891,25 @@ on which the phrase "Project Gutenberg" appears, or with which the
 phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you'll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg(tm) electronic work is
-derived from the public domain (does not contain a notice indicating
-that it is posted with permission of the copyright holder), the work can
-be copied and distributed to anyone in the United States without paying
-any fees or charges. If you are redistributing or providing access to a
-work with the phrase "Project Gutenberg" associated with or appearing on
-the work, you must comply either with the requirements of paragraphs
-1.E.1 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg(tm) trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+derived from texts not protected by U.S. copyright law (does not contain
+a notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase "Project Gutenberg"
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg(tm) trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg(tm) electronic work is
 posted with the permission of the copyright holder, your use and
@@ -1978,21 +1983,22 @@ provided that
 *1.E.9.* If you wish to charge a fee or distribute a Project
 Gutenberg(tm) electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg(tm) trademark. Contact the
-Foundation as set forth in Section 3. below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg(tm)
+trademark. Contact the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg(tm) collection.
-Despite these efforts, Project Gutenberg(tm) electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg(tm) collection. Despite these efforts, Project Gutenberg(tm)
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -2023,7 +2029,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -2078,13 +2084,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation's web site and official page
-at http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -2139,9 +2145,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg(tm) eBooks with only a loose network of volunteer support.
 
 Project Gutenberg(tm) eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook's eBook
 number, often in several formats including plain vanilla ASCII,
